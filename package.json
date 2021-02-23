@@ -11,8 +11,5 @@
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
-        },
-    "dependencies": {
-        "minimap": "git+https://github.com/atom-minimap/minimap.git"
     }
 }
